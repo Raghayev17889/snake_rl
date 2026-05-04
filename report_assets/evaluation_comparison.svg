@@ -1,0 +1,42 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='960' height='540' viewBox='0 0 960 540'>
+<rect x='0' y='0' width='960' height='540' rx='20' fill='#f8fafc' />
+<text x='480.00' y='34.00' fill='#24292f' font-size='24' font-family='Segoe UI, Arial, sans-serif' font-weight='700' text-anchor='middle'>Evaluation Comparison</text>
+<line x1='80.00' y1='70.00' x2='80.00' y2='450.00' stroke='#24292f' stroke-width='1.8' />
+<line x1='80.00' y1='450.00' x2='930.00' y2='450.00' stroke='#24292f' stroke-width='1.8' />
+<line x1='74.00' y1='450.00' x2='80.00' y2='450.00' stroke='#d0d7de' stroke-width='1.0' />
+<text x='68.00' y='454.00' fill='#57606a' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='end'>-0.9</text>
+<line x1='74.00' y1='374.00' x2='80.00' y2='374.00' stroke='#d0d7de' stroke-width='1.0' />
+<text x='68.00' y='378.00' fill='#57606a' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='end'>9.6</text>
+<line x1='74.00' y1='298.00' x2='80.00' y2='298.00' stroke='#d0d7de' stroke-width='1.0' />
+<text x='68.00' y='302.00' fill='#57606a' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='end'>20.1</text>
+<line x1='74.00' y1='222.00' x2='80.00' y2='222.00' stroke='#d0d7de' stroke-width='1.0' />
+<text x='68.00' y='226.00' fill='#57606a' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='end'>30.5</text>
+<line x1='74.00' y1='146.00' x2='80.00' y2='146.00' stroke='#d0d7de' stroke-width='1.0' />
+<text x='68.00' y='150.00' fill='#57606a' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='end'>41.0</text>
+<line x1='74.00' y1='70.00' x2='80.00' y2='70.00' stroke='#d0d7de' stroke-width='1.0' />
+<text x='68.00' y='74.00' fill='#57606a' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='end'>51.5</text>
+<text x='150.83' y='474.00' fill='#24292f' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='middle'>Random</text>
+<rect x='108.83' y='441.15' width='38.00' height='8.85' rx='4' fill='#1f4e79' />
+<rect x='150.83' y='450.00' width='38.00' height='0.00' rx='4' fill='#8a5cf6' />
+<text x='292.50' y='474.00' fill='#24292f' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='middle'>Q-Learning</text>
+<rect x='250.50' y='388.63' width='38.00' height='61.37' rx='4' fill='#1f4e79' />
+<rect x='292.50' y='399.32' width='38.00' height='50.68' rx='4' fill='#8a5cf6' />
+<text x='434.17' y='474.00' fill='#24292f' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='middle'>Q-Learning + Reward Shaping</text>
+<rect x='392.17' y='382.57' width='38.00' height='67.43' rx='4' fill='#1f4e79' />
+<rect x='434.17' y='410.39' width='38.00' height='39.61' rx='4' fill='#8a5cf6' />
+<text x='575.83' y='474.00' fill='#24292f' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='middle'>Q-Learning + Shaping (α=0.2)</text>
+<rect x='533.83' y='402.66' width='38.00' height='47.34' rx='4' fill='#1f4e79' />
+<rect x='575.83' y='426.67' width='38.00' height='23.33' rx='4' fill='#8a5cf6' />
+<text x='717.50' y='474.00' fill='#24292f' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='middle'>DQN (features)</text>
+<rect x='675.50' y='398.31' width='38.00' height='51.69' rx='4' fill='#1f4e79' />
+<rect x='717.50' y='70.00' width='38.00' height='380.00' rx='4' fill='#8a5cf6' />
+<text x='859.17' y='474.00' fill='#24292f' font-size='12' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='middle'>DQN (features+grid)</text>
+<rect x='817.17' y='432.19' width='38.00' height='17.81' rx='4' fill='#1f4e79' />
+<rect x='859.17' y='391.86' width='38.00' height='58.14' rx='4' fill='#8a5cf6' />
+<rect x='765.00' y='68.00' width='14.00' height='14.00' rx='4' fill='#1f4e79' />
+<text x='785.00' y='80.00' fill='#24292f' font-size='13' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='start'>Average Score</text>
+<rect x='765.00' y='92.00' width='14.00' height='14.00' rx='4' fill='#8a5cf6' />
+<text x='785.00' y='104.00' fill='#24292f' font-size='13' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='start'>Average Reward</text>
+<text x='505.00' y='524.00' fill='#24292f' font-size='14' font-family='Segoe UI, Arial, sans-serif' font-weight='400' text-anchor='middle'>Agent</text>
+<text x='22.00' y='260.00' fill='#24292f' font-size='14' font-family='Segoe UI, Arial, sans-serif' text-anchor='middle' transform='rotate(-90 22.00 260.00)'>Value</text>
+</svg>
